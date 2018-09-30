@@ -45,8 +45,8 @@
     - key: a
       text: |
         'This is an organizational control outside the scope of configuring
-        Red Hat Identity Management. Use of the NIST National Checklist
-        for Red Hat Identity Management is suggested as a supported,
+        this system component. Use of the NIST National Checklist
+        for this system component is suggested as a supported,
         US Government recognized, vendor supported, baseline.'
     - key: b
       text: |
@@ -55,14 +55,11 @@
         describe how mandatory configuration settings are implemented. This can
         include the process or documentation followed.
 
-        Creation of a Red Hat Identity Management configuration baseline
-        is being tracked on GitHub:
-
-        https://github.com/ComplianceAsCode/redhat-identity-management/issues/40'
+        Documentation/guidance on satisfying this control is planned.'
     - key: c
       text: |
         'This is an organizational control outside the scope of configuring
-        Red Hat Identity Management.'
+        this system component.'
     - key: d
       text: |
         'The customer will be responsible for monitoring and controlling
@@ -78,10 +75,7 @@
   implementation_status: planned
   narrative:
     - text: |
-        'Red Hat Identity Management provides many capabilities, including
-        user authentication, DNS integration, and several APIs. A successful
-        control response will outline which services are enabled
-        and their mission purpose.'
+        'Documentation/guidance on satisfying this control is planned.'
 
 - control_key: CM-8
   standard_key: NIST-800-53
