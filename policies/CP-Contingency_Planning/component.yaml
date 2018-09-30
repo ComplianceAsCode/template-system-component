@@ -47,9 +47,7 @@
         user-level information occures, and how three backup copies are
         maintained.
 
-        Guidance on establishing such backups is being tracked in GitHub:
-
-        https://github.com/ComplianceAsCode/redhat-identity-management/issues/51'
+        Documentation/guidance on satisfying this control is planned.'
     - key: b
       text: |
         'The customer will be responsible for conducting daily incremental and
@@ -61,9 +59,7 @@
         user-level information occures, and how three backup copies are
         maintained.
 
-        Guidance on establishing such backups is being tracked in GitHub:
-
-        https://github.com/ComplianceAsCode/redhat-identity-management/issues/52'
+        Documentation/guidance on satisfying this control is planned.'
     - key: c
       text: |
         'The customer will be responsible for conducting daily incremental and
@@ -75,8 +71,7 @@
         backups of user-level information occures, and how three backup copies
         are maintained.
 
-        Guidance on establishing such backups is being tracked in GitHub:
-        https://github.com/ComplianceAsCode/redhat-identity-management/issues/53'
+        Documentation/guidance on satisfying this control is planned.'
     - key: d
       text: |
         'The customer will be responsible for protecting the confidentiality,
@@ -87,8 +82,7 @@
         Backup is going to be verified and appropriate periodicity of the
         check.
 
-        Guidance on establishing such backups is being tracked in GitHub:
-        https://github.com/ComplianceAsCode/redhat-identity-management/issues/54'
+        Documentation/guidance on satisfying this control is planned.'
 
 - control_key: CP-10
   standard_key: NIST-800-53
@@ -97,7 +91,6 @@
   narrative:
     - text: |
         'The customer will be responsible for documenting how to reconstitute
-        their Red Hat Identity Management environment. A successful control
+        their environment. A successful control
         response will detail
-        processes used to fully recover/restore the Red Hat Identity
-        Management environment.'
+        processes used to fully recover/restore the system component.'

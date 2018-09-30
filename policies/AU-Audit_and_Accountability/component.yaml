@@ -20,11 +20,10 @@
 - control_key: AU-3
   standard_key: NIST-800-53
   covered_by: []
-  implementation_status: complete
+  implementation_status: planned
   narrative:
     - text: |
-        'Red Hat Identity Management audit records contain this information
-        by default. No additional configuration is required.'
+        'Documentation/guidance on satisfying this control is planned.'
 
 - control_key: AU-4
   standard_key: NIST-800-53
@@ -40,29 +39,10 @@
   narrative:
     - key: a
       text: |
-        'Red Hat Identity Management Administrators  are responsible for
-        alerting personnel or roles in the event of an audit processing
-        failure. A successful
-        control response will outline the process taken to alert personnel
-        when an auditing failure occurs.
-
-        Documentation/guidance on alerting administrators is being tracked
-        on GitHub:
-
-        https://github.com/ComplianceAsCode/redhat-identity-management/issues/19'
+        'Documentation/guidance on satisfying this control is planned.'
     - key: b
       text: |
-        'In the event of an audit processing failure, Red Hat Identity
-        Management Administrators
-        are responsible for: overwriting the oldest audit records for low
-        impact systems and shutting down moderate impact systems. A successful
-        control response will outline the actions taken when an auditing
-        failure occurs.
-
-        Documentation/guidance on achieving this control is being tracked
-        on GitHub:
-
-        https://github.com/ComplianceAsCode/redhat-identity-management/issues/20'
+        'Documentation/guidance on satisfying this control is planned.'
 
 - control_key: AU-6
   standard_key: NIST-800-53
@@ -74,20 +54,15 @@
 - control_key: AU-8
   standard_key: NIST-800-53
   covered_by: []
-  implementation_status: complete
+  implementation_status: planned
   narrative:
     - key: a
       text: |
-        'Red Hat Identity Management time keeping relies on the time services
-        provided by the underlying operating system. This control is not
-        applicable to the configuration of Red Hat Identity Management.'
+        'Documentation/guidance on satisfying this control is planned.'
 
     - key: b
       text: |
-        'Red Hat Identity Management time keeping relies on the time
-        services provided by the
-        underlying operating system. This control is not applicable to the
-        configuration of Red Hat Identity Management.'
+        'Documentation/guidance on satisfying this control is planned.'
 
 - control_key: AU-9
   standard_key: NIST-800-53
@@ -95,17 +70,7 @@
   implementation_status: planned
   narrative:
     - text: |
-        'Customers are required to protect the audit information and audit
-        tools from unauthorized access, modification, and deletion. A successful
-        control response will discuss the way that audit information and tools
-        are protected. This can include how access is controlled to audit
-        information and tools.
-
-        Documentation/instructions on protecting Red Hat
-        Identity Management audit information
-        is being tracked in GitHub:
-
-        https://github.com/ComplianceAsCode/redhat-identity-management/issues/21'
+        'Documentation/guidance on satisfying this control is planned.'
 
 - control_key: AU-11
   standard_key: NIST-800-53
@@ -113,10 +78,7 @@
   implementation_status: planned
   narrative:
     - text: |
-        'Documentation/instructions on audit retention is being tracked
-        in GitHub:
-
-        https://github.com/ComplianceAsCode/redhat-identity-management/issues/22'
+        'Documentation/guidance on satisfying this control is planned.'
 
 - control_key: AU-12
   standard_key: NIST-800-53
@@ -131,24 +93,17 @@
         coniguration of all system components to capture the events that were
         defined in AU-2.
 
-        Documentation/guidance on configuring auditable events is being
-        tracked on GitHub:
-
-        https://github.com/ComplianceAsCode/redhat-identity-management/issues/23'
+        Documentation/guidance on satisfying this control is planned.'
     - key: b
       text: |
-        '//*
-        Customers are required to allow defined personnel or roles to select
+        'Customers are required to allow defined personnel or roles to select
         which auditable events are to be audited by specific components of the
         information system. A successful control response will discuss how
         audit generation is implemented, and who selects and configures
         auditable events on the information system. Approved personnel or
         roles are defined in AU-9(4).
 
-        Documentation/guidance on satisfying this control is being
-        tracked on GitHub:
-
-        https://github.com/ComplianceAsCode/redhat-identity-management/issues/24'
+        Documentation/guidance on satisfying this control is planned.'
     - key: c
       text: |
         'Customers are required to generate audit records for the events
@@ -156,7 +111,4 @@
         response will discuss how audit records are generated, and how they meet
         the requirements defined in AU-2 and AU-3.
 
-        Documentation/guidance on satisfying this control is being
-        tracked on GitHub:
-
-        https://github.com/ComplianceAsCode/redhat-identity-management/issues/25'
+        Documentation/guidance on satisfying this control is planned.'

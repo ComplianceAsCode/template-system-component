@@ -1,10 +1,10 @@
 schema_version: "1.0.0"
-name: Red Hat Identity Management
+name: Sample System Component
 metadata:
-  description: Red Hat Identity Management
+  description: Description of System Component
   maintainers:
-    - Shawn Wells <shawn@redhat.com>
-    - Dmitri Pal <dpal@redhat.com>
+    - Some Maintainer <some@maintainer.org>
+    - Another Maintainer <another@maintainer.org>
 
 components:
     - ./policies/AC-Access_Control
