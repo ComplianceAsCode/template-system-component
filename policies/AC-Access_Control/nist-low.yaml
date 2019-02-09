@@ -1,0 +1,127 @@
+##
+## BEGINNING OF:
+## ACCESS CONTROL
+##
+## Reminder of "implementation_status" codes:
+##  - implementation_status: unsatisfied
+##  - implementation_status: unknown
+##  - implementation_status: planned
+##  - implementation_status: partial
+##  - implementation_status: complete
+##  - implementation_status: none
+##
+
+
+# NIST Control URL:
+#   https://nvd.nist.gov/800-53/Rev4/control/AC-1
+- control_key: AC-1
+  standard_key: NIST-800-53
+  covered_by: []
+  implementation_status: unknown
+  narrative:
+    - text: ''
+
+# NIST Control URL:
+#   https://nvd.nist.gov/800-53/Rev4/control/AC-2
+- control_key: AC-2
+  standard_key: NIST-800-53
+  covered_by: []
+  implementation_status: unknown
+  narrative:
+    - text: ''
+
+# NIST Control URL:
+#   https://nvd.nist.gov/800-53/Rev4/control/AC-3
+- control_key: AC-3
+  standard_key: NIST-800-53
+  covered_by: []
+  implementation_status: unknown
+  narrative:
+    - text: |
+        ''
+
+# NIST Control URL:
+#   https://nvd.nist.gov/800-53/Rev4/control/AC-7
+- control_key: AC-7
+  standard_key: NIST-800-53
+  covered_by: []
+  implementation_status: unknown
+  narrative:
+    - key: a
+      text: |
+        ''
+    - key: b
+      text: |
+        ''
+
+# NIST Control URL:
+#   https://nvd.nist.gov/800-53/Rev4/control/AC-8
+- control_key: AC-8
+  standard_key: NIST-800-53
+  covered_by: []
+  implementation_status: unknown
+  narrative:
+    - key: a
+      text: |
+        ''
+    - key: b
+      text: |
+        ''
+    - key: c
+      text: |
+        ''
+
+# NIST Control URL:
+#   https://nvd.nist.gov/800-53/Rev4/control/AC-14
+- control_key: AC-14
+  standard_key: NIST-800-53
+  covered_by: []
+  implementation_status: unknown
+  narrative:
+    - text: |
+        ''
+
+# NIST Control URL:
+#   https://nvd.nist.gov/800-53/Rev4/control/AC-17
+- control_key: AC-17
+  standard_key: NIST-800-53
+  covered_by: []
+  implementation_status: unknown
+  narrative:
+    - text: ''
+
+# NIST Control URL:
+#   https://nvd.nist.gov/800-53/Rev4/control/AC-18
+- control_key: AC-18
+  standard_key: NIST-800-53
+  covered_by: []
+  implementation_status: unknown
+  narrative:
+    - text: ''
+
+# NIST Control URL:
+#   https://nvd.nist.gov/800-53/Rev4/control/AC-19
+- control_key: AC-19
+  standard_key: NIST-800-53
+  covered_by: []
+  implementation_status: unknown
+  narrative:
+    - text: ''
+
+# NIST Control URL:
+#   https://nvd.nist.gov/800-53/Rev4/control/AC-20
+- control_key: AC-20
+  standard_key: NIST-800-53
+  covered_by: []
+  implementation_status: unknown
+  narrative:
+    - text: ''
+
+# NIST Control URL:
+#   https://nvd.nist.gov/800-53/Rev4/control/AC-22
+- control_key: AC-22
+  standard_key: NIST-800-53
+  covered_by: []
+  implementation_status: not applicable
+  narrative:
+    - text: ''
