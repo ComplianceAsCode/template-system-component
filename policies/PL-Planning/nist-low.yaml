@@ -1,0 +1,42 @@
+##
+## BEGINNING OF:
+## PLANNING
+##
+## Reminder of "implementation_status" codes:
+##  - implementation_status: unsatisfied
+##  - implementation_status: unknown
+##  - implementation_status: planned
+##  - implementation_status: partial
+##  - implementation_status: complete
+##  - implementation_status: none
+##
+
+# NIST Control URL:
+#   https://nvd.nist.gov/800-53/Rev4/control/PL-1
+- control_key: PL-1
+  standard_key: NIST-800-53
+  covered_by: []
+  implementation_status: unknown
+  narrative:
+    - text: |
+        ''
+
+# NIST Control URL:
+#   https://nvd.nist.gov/800-53/Rev4/control/PL-2
+- control_key: PL-2
+  standard_key: NIST-800-53
+  covered_by: []
+  implementation_status: unknown
+  narrative:
+    - text: |
+        ''
+
+# NIST Control URL:
+#   https://nvd.nist.gov/800-53/Rev4/control/PL-4
+- control_key: PL-4
+  standard_key: NIST-800-53
+  covered_by: []
+  implementation_status: unknown
+  narrative:
+    - text: |
+        ''
