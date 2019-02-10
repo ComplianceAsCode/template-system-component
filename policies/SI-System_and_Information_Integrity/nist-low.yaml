@@ -1,0 +1,74 @@
+##
+## BEGINNING OF:
+## SYSTEM AND INFORMATION INTEGRITY
+##
+## Reminder of "implementation_status" codes:
+##  - implementation_status: unsatisfied
+##  - implementation_status: unknown
+##  - implementation_status: planned
+##  - implementation_status: partial
+##  - implementation_status: complete
+##  - implementation_status: none
+##
+## Based off security control selections from
+## https://nvd.nist.gov/800-53/Rev4/family/System%20and%20Information%20Integrity
+
+# NIST Control URL:
+#   https://nvd.nist.gov/800-53/Rev4/control/SI-1
+- control_key: SI-1
+  standard_key: NIST-800-53
+  covered_by: []
+  implementation_status: unknown
+  narrative:
+    - text: |
+        ''
+
+# NIST Control URL:
+#   https://nvd.nist.gov/800-53/Rev4/control/SI-2
+- control_key: SI-2
+  standard_key: NIST-800-53
+  covered_by: []
+  implementation_status: unknown
+  narrative:
+    - text: |
+        ''
+
+# NIST Control URL:
+#   https://nvd.nist.gov/800-53/Rev4/control/SI-3
+- control_key: SI-3
+  standard_key: NIST-800-53
+  covered_by: []
+  implementation_status: unknown
+  narrative:
+    - text: |
+        ''
+
+# NIST Control URL:
+#   https://nvd.nist.gov/800-53/Rev4/control/SI-4
+- control_key: SI-4
+  standard_key: NIST-800-53
+  covered_by: []
+  implementation_status: unknown
+  narrative:
+    - text: |
+        ''
+
+# NIST Control URL:
+#   https://nvd.nist.gov/800-53/Rev4/control/SI-5
+- control_key: SI-5
+  standard_key: NIST-800-53
+  covered_by: []
+  implementation_status: unknown
+  narrative:
+    - text: |
+        ''
+
+# NIST Control URL:
+#   https://nvd.nist.gov/800-53/Rev4/control/SI-12
+- control_key: SI-12
+  standard_key: NIST-800-53
+  covered_by: []
+  implementation_status: unknown
+  narrative:
+    - text: |
+        ''
