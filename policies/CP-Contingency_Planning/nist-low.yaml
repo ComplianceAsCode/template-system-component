@@ -1,0 +1,79 @@
+##
+## BEGINNING OF:
+## CONTINGENCY PLANNING
+##
+## Reminder of "implementation_status" codes:
+##  - implementation_status: unsatisfied
+##  - implementation_status: unknown
+##  - implementation_status: planned
+##  - implementation_status: partial
+##  - implementation_status: complete
+##  - implementation_status: none
+##
+## Based off security control selections from
+## https://nvd.nist.gov/800-53/Rev4/family/Contingency%20Planning
+
+# NIST Control URL:
+#   https://nvd.nist.gov/800-53/Rev4/control/CP-1
+- control_key: CP-1
+  standard_key: NIST-800-53
+  covered_by: []
+  implementation_status: unknown
+  narrative:
+    - text: ''
+
+# NIST Control URL:
+#   https://nvd.nist.gov/800-53/Rev4/control/CP-2
+- control_key: CP-2
+  standard_key: NIST-800-53
+  covered_by: []
+  implementation_status: unknown
+  narrative:
+    - text: ''
+
+# NIST Control URL:
+#   https://nvd.nist.gov/800-53/Rev4/control/CP-3
+- control_key: CP-3
+  standard_key: NIST-800-53
+  covered_by: []
+  implementation_status: unknown
+  narrative:
+    - text: ''
+
+# NIST Control URL:
+#   https://nvd.nist.gov/800-53/Rev4/control/CP-4
+- control_key: CP-4
+  standard_key: NIST-800-53
+  covered_by: []
+  implementation_status: unknown
+  narrative:
+    - text: ''
+
+# NIST Control URL:
+#   https://nvd.nist.gov/800-53/Rev4/control/CP-9
+- control_key: CP-9
+  standard_key: NIST-800-53
+  covered_by: []
+  implementation_status: unknown
+  narrative:
+    - key: a
+      text: |
+        ''
+    - key: b
+      text: |
+        ''
+    - key: c
+      text: |
+        ''
+    - key: d
+      text: |
+        ''
+
+# NIST Control URL:
+#   https://nvd.nist.gov/800-53/Rev4/control/CP-10
+- control_key: CP-10
+  standard_key: NIST-800-53
+  covered_by: []
+  implementation_status: unknown
+  narrative:
+    - text: ''

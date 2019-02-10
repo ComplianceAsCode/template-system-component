@@ -2,14 +2,24 @@
 ## BEGINNING OF:
 ## INCIDENT RESPONSE
 ##
+## Reminder of "implementation_status" codes:
+##  - implementation_status: unsatisfied
+##  - implementation_status: unknown
+##  - implementation_status: planned
+##  - implementation_status: partial
+##  - implementation_status: complete
+##  - implementation_status: none
+##
+
+# NIST Control URL:
+#   https://nvd.nist.gov/800-53/Rev4/control/IR-1
 - control_key: IR-1
   standard_key: NIST-800-53
   covered_by: []
-  implementation_status: not applicable
+  implementation_status: unknown
   narrative:
     - text: |
-        'This control reflects organizational procedure/policy and is not
-        applicable to component-level configuration.'
+        ''
 
 - control_key: IR-2
   standard_key: NIST-800-53

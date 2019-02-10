@@ -2,7 +2,19 @@
 ## BEGINNING OF:
 ## SYSTEM AND SERVICES ACQUISITION
 ##
+## Reminder of "implementation_status" codes:
+##  - implementation_status: unsatisfied
+##  - implementation_status: unknown
+##  - implementation_status: planned
+##  - implementation_status: partial
+##  - implementation_status: complete
+##  - implementation_status: none
+##
+## Based off security control selections from
+## https://nvd.nist.gov/800-53/Rev4/family/System%20and%20Services%20Acquisition
 
+# NIST Control URL:
+#   https://nvd.nist.gov/800-53/Rev4/control/SA-1
 - control_key: SA-1
   standard_key: NIST-800-53
   covered_by: []
