@@ -10,6 +10,8 @@
 ##  - implementation_status: complete
 ##  - implementation_status: none
 ##
+## Control selections based off
+## https://nvd.nist.gov/800-53/Rev4/family/Audit%20and%20Accountability
 
 # NIST Control URL:
 #   https://nvd.nist.gov/800-53/Rev4/control/AU-1

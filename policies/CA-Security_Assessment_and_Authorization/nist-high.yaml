@@ -10,6 +10,9 @@
 ##  - implementation_status: complete
 ##  - implementation_status: none
 ##
+## Based off security controls from:
+## https://nvd.nist.gov/800-53/Rev4/family/Security%20Assessment%20and%20Authorization
+
 
 # NIST Control URL:
 #   https://nvd.nist.gov/800-53/Rev4/control/CA-1
@@ -95,6 +98,15 @@
 # NIST Control URL:
 #   https://nvd.nist.gov/800-53/Rev4/control/CA-7?baseline=moderate#enhancement-1
 - control_key: CA-7 (1)
+  standard_key: NIST-800-53
+  covered_by: []
+  implementation_status: unknown
+  narrative:
+    - text: ''
+
+# NIST Control URL:
+#   https://nvd.nist.gov/800-53/Rev4/control/CA-8
+- control_key: CA-8
   standard_key: NIST-800-53
   covered_by: []
   implementation_status: unknown

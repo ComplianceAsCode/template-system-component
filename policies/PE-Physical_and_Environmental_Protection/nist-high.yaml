@@ -10,6 +10,8 @@
 ##  - implementation_status: complete
 ##  - implementation_status: none
 ##
+## Based off security control selections from
+## https://nvd.nist.gov/800-53/Rev4/family/Physical%20and%20Environmental%20Protection
 
 # NIST Control URL:
 #   https://nvd.nist.gov/800-53/Rev4/control/PE-1
@@ -230,6 +232,15 @@
 # NIST Control URL:
 #   https://nvd.nist.gov/800-53/Rev4/control/PE-17
 - control_key: PE-17
+  standard_key: NIST-800-53
+  covered_by: []
+  implementation_status: unknown
+  narrative:
+    - text: ''
+
+# NIST Control URL:
+#   https://nvd.nist.gov/800-53/Rev4/control/PE-18
+- control_key: PE-18
   standard_key: NIST-800-53
   covered_by: []
   implementation_status: unknown

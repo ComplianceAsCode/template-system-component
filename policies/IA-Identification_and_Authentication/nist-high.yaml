@@ -10,6 +10,8 @@
 ##  - implementation_status: complete
 ##  - implementation_status: none
 ##
+## Based off security control selections from
+## https://nvd.nist.gov/800-53/Rev4/family/Identification%20and%20Authentication
 
 # NIST Control URL:
 #   https://nvd.nist.gov/800-53/Rev4/control/IA-1

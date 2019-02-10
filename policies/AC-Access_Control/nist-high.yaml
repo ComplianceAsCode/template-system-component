@@ -235,6 +235,16 @@
         ''
 
 # NIST Control URL:
+#   https://nvd.nist.gov/800-53/Rev4/control/AC-10
+- control_key: AC-10
+  standard_key: NIST-800-53
+  covered_by: []
+  implementation_status: unknown
+  narrative:
+    - text: |
+        ''
+
+# NIST Control URL:
 #   https://nvd.nist.gov/800-53/Rev4/control/AC-11
 - control_key: AC-11
   standard_key: NIST-800-53

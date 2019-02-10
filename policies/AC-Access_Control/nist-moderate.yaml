@@ -30,7 +30,6 @@
   narrative:
     - text: ''
 
-
 # NIST Control URL:
 #   https://nvd.nist.gov/800-53/Rev4/control/AC-2?baseline=moderate#enhancement-1
 - control_key: AC-2 (1)
