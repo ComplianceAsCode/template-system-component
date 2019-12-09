@@ -48,6 +48,17 @@
         applicable to component-level configuration.
 
 # NIST Control URL:
+#   https://nvd.nist.gov/800-53/Rev4/control/AT-2#enhancement-1
+- control_key: AT-2 (1)
+  standard_key: NIST-800-53
+  covered_by: []
+  implementation_status: not applicable
+  narrative:
+    - text: |
+        This control reflects organizational procedure/policy and is not
+        applicable to component-level configuration.
+
+# NIST Control URL:
 #   https://nvd.nist.gov/800-53/Rev4/control/AT-2#enhancement-2
 - control_key: AT-2 (2)
   standard_key: NIST-800-53
@@ -79,6 +90,50 @@
         applicable to component-level configuration.
 
 # NIST Control URL:
+#   https://nvd.nist.gov/800-53/Rev4/control/AT-3#enhancement-1
+- control_key: AT-3 (1)
+  standard_key: NIST-800-53
+  covered_by: []
+  implementation_status: not applicable
+  narrative:
+    - text: |
+        This control reflects organizational procedure/policy and is not
+        applicable to component-level configuration.
+
+# NIST Control URL:
+#   https://nvd.nist.gov/800-53/Rev4/control/AT-3#enhancement-2
+- control_key: AT-3 (2)
+  standard_key: NIST-800-53
+  covered_by: []
+  implementation_status: not applicable
+  narrative:
+    - text: |
+        This control reflects organizational procedure/policy and is not
+        applicable to component-level configuration.
+
+# NIST Control URL:
+#   https://nvd.nist.gov/800-53/Rev4/control/AT-3#enhancement-3
+- control_key: AT-3 (3)
+  standard_key: NIST-800-53
+  covered_by: []
+  implementation_status: not applicable
+  narrative:
+    - text: |
+        This control reflects organizational procedure/policy and is not
+        applicable to component-level configuration.
+
+# NIST Control URL:
+#   https://nvd.nist.gov/800-53/Rev4/control/AT-3#enhancement-4
+- control_key: AT-3 (4)
+  standard_key: NIST-800-53
+  covered_by: []
+  implementation_status: not applicable
+  narrative:
+    - text: |
+        This control reflects organizational procedure/policy and is not
+        applicable to component-level configuration.
+
+# NIST Control URL:
 #   https://nvd.nist.gov/800-53/Rev4/control/AT-4
 - control_key: AT-4
   standard_key: NIST-800-53
@@ -93,3 +148,14 @@
       text: |
         This control reflects organizational procedure/policy and is not
         applicable to component-level configuration.
+
+# NIST Control URL:
+#   https://nvd.nist.gov/800-53/Rev4/control/AT-5
+- control_key: AT-5
+  standard_key: NIST-800-53
+  covered_by: []
+  implementation_status: not applicable
+  narrative:
+    - text: |
+        As of NIST 800-53 rev4 this control was withdrawn
+        and incorporated into PM-15.
